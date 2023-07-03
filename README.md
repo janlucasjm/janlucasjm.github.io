@@ -2,7 +2,7 @@
 
 <p>Um site modelo e meu primeiro teste de código e envio.</p>
 
-##Tecnologias
+## Tecnologias
 * HTML
 * CSS
 * JS
